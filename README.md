@@ -1,5 +1,4 @@
 # Product-Review-Summarization
-CSCE 5290 Natural Language Processing - Team Project.
 
 This repository contains the code and resources for a customer review summarization project. The goal of this project is to extract concise summaries from customer reviews to provide valuable insights to businesses. We are utilizing the Amazon Movie and TV dataset for this purpose.
 
